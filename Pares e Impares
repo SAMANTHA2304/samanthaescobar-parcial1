@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    char opcion = 'S'
+    int a =50;
+    int b = 50;
+                while (opcion =='s')
+             cout << Ingrese el numero que desea sumar>>
+             cin<< opcion;
+                if(opcion == "P"; opcion =="p")
+               cout <<los numeros pares hasta el 50 son:>>
+               endl;
+    for (int i=1, i< b; i + =2 < b; +i+2) endl;
+    for cout <<los numeros impares hasta el 50 son:>>
+        int a =50
+                while(opcion=="s")
+                    for (int i=2, <a;i +=2){
